@@ -40,7 +40,9 @@ Rhasspy is <strong>optimized for</strong>:
     * You can also do [open-ended speech recognition](https://rhasspy.readthedocs.io/en/latest/speech-to-text/#open-transcription)
 * Voice commands with [uncommon words or pronunciations](https://rhasspy.readthedocs.io/en/latest/usage/#words-tab)
     * New words are added phonetically with [automated assistance](https://github.com/AdolfVonKleist/Phonetisaurus)
-    
+
+[![A collaboration with the Open Home Foundation](https://www.openhomefoundation.org/badges/ohf-collaboration.png)](https://www.openhomefoundation.org/)
+
 ## Learn More
 
 * [Rhasspy A-M Video Series](https://www.youtube.com/watch?v=dI5tS3sNZD0) by [Thorsten Müller](https://www.thorsten-voice.de/)
